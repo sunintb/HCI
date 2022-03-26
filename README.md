@@ -1,8 +1,5 @@
-# Team Members
 ## CS 67/267 - Introduction to HCI (Winter 2022) 
 ## High(er) Fidelty Prototype
-
-GitHub usernames for each team member:
 
 P4 Report Link: https://docs.google.com/document/d/1SsZpFOThES1WLQfYiiWv0bVwv_cn_qWrQ3aj25gsmGY/edit?usp=sharing 
 
